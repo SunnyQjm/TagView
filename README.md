@@ -1,6 +1,6 @@
 # Android TagView
 Android TagView-HashTagView
-
+[![](https://jitpack.io/v/SunnyQjm/TagView.svg)](https://jitpack.io/#SunnyQjm/TagView)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-TagView-green.svg?style=flat)](https://android-arsenal.com/details/1/2566)
 <br><br>Xamarin version, written by <a href = "https://github.com/fernandolopes">@fernandolopes</a><br>
 https://github.com/fernandolopes/Xamarin.Android.TagView
